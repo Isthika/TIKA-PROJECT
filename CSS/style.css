@@ -47,7 +47,7 @@ nav ul li a{
 	font-size: 0..8rem;
 	text-transform: uppercase;
 	font-weight: 500;
-	color: rgb(0, 0, 0);
+	color: #585b5b;
 	letter-spacing: 1px;
 }
 .hey{
@@ -103,7 +103,7 @@ nav ul li a:hover{
 	justify-content: center;
 	align-items: center;
 	color:#ffffff;
-	background-color: #11ddbb;
+	background-color: #1db096;
 	border-radius: 20px;
 	box-shadow: 4px 10px 30px rgba(24,139,119,0.2);
 }
